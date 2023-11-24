@@ -44,3 +44,15 @@ let isSignUp = 1;
 
 let isSignedUp = Boolean(isSignUp);
 console.log(isSignedUp);
+
+// 1 => true; or 0 => false;
+// "" => false;
+// "shivam" => true;
+
+let someNumber = 784;
+
+let boolNum = String(someNumber);
+console.log(boolNum);
+console.log(typeof boolNum);
+
+// 873 => 873 which is of string type.
