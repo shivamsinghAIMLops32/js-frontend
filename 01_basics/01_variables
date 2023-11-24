@@ -1,0 +1,11 @@
+const accountId = 12873;
+let accountEmail = 'shivam@gmail.com';
+var accountPassword = "387732";
+accountCity = 'noida';
+
+// accountId = 2;  *not work cause const var can't change.
+
+accountEmail = "shivam287@gmail.com";
+console.log(accountEmail);
+
+console.table([accountId, accountEmail, accountPassword, accountCity]);
