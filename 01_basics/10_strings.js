@@ -3,21 +3,21 @@ const repoCount = 30;
 
 // console.log(name + ""+ repoCount);
 
-// use STRING interpolation by using backtick(``).
+// use STRING interpolation by using backtick(``).  --> as an placeholder
 
 console.log(`hello my name is ${name} and my repoCount is ${repoCount}`);
 
 
-// String declaration
+// String declaration another method
 
 const playerName = new String("shivaOp");
-console.log(playerName);
+console.log(`The player name is ${playerName}`);
 
 // STRING FUNCTION
 
 const newPlayer = "john cena";
 
-console.log(newPlayer[3]);
+console.log(newPlayer[3]);       // accessing the value from string
 // console.log(newPlayer.__proto__.length())
 
 console.log(newPlayer.length);
@@ -31,6 +31,7 @@ console.log(newPlayer.indexOf('l'));
 const newString = newPlayer.substring(0, 7);
 console.log(newString);
 
+// in case of slice it can take negative values as it works from last of string
 const anotherString = newPlayer.slice(-7, 5);
 console.log(anotherString);
 
