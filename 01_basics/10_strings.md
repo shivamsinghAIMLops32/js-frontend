@@ -13,8 +13,9 @@
  - [] immutable
  - [x] mutable
 -----------------------------------------------------------------------------
+> some operations over string
 
-> ### *** string declaration *** ###
+### ** string declaration *** ##
 ```js
 const player = "shivam";
 const newPlayer = new String("shivaOP");
@@ -31,4 +32,22 @@ console.log(newPlayer.charAt(3));
  ```js
 console.log(newPlayer.toUpperCase());
 console.log(newPlayer.toLowerCase());
+ ```
+
+### **some useful proto type or function of string**
+ ```js
+ const player1 = "shivam";
+ const message = "you are promoted"
+console.log(newPlayer.bold);
+
+console.log(newPlayer.concat(${message}));
+ ```
+
+### **trimming and replace string**
+ ```js
+ const url = "  shivam   ";
+console.log(url.trim());
+
+ const newUrl = "you are promoted"
+console.log(newUrl.replace("shivam","shivamOp"));
  ```
