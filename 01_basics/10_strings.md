@@ -1,17 +1,17 @@
 > #### This file contains strings guide
 >
 >> - Strings are very much useful in programming and very frequent.
-> ***where to use string ?***
+> **where to use string ?**
 >
 >>  *Strings* is used for storing **sequence of charaters**.
 
 ##### strings are mutable or immutable
-> - [x] immutable
-> - [] mutable
+ - [x] immutable
+ - [] mutable
 
 ##### strings objects are mutable or immutable
-> - [] immutable
-> - [x] mutable
+ - [] immutable
+ - [x] mutable
 -----------------------------------------------------------------------------
 
 > *** string declaration ***
