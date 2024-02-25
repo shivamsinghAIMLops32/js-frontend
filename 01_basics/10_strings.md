@@ -14,7 +14,7 @@
  - [x] mutable
 -----------------------------------------------------------------------------
 
-> *** string declaration ***
+> ### *** string declaration *** ###
 ```js
 const player = "shivam";
 // to get the length of string
