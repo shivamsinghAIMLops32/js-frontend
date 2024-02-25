@@ -2,5 +2,6 @@
 --a code repo for javascript for frontend
 
 ```fee fi fo fum
-// some example code
+// how to print output ?
+console.log("hello);
 ```
