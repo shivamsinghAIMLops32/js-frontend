@@ -4,6 +4,14 @@
 > ***where to use string ?***
 >
 >>  *Strings* is used for storing **sequence of charaters**.
+
+##### strings are mutable or immutable
+> [x] immutable
+> [] mutable
+
+##### strings objects are mutable or immutable
+> [] immutable
+> [x] mutable
 -----------------------------------------------------------------------------
 
 > *** string declaration ***
