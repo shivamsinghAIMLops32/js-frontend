@@ -24,6 +24,7 @@ console.log(newPlayer.length);
 console.log(newPlayer.toUpperCase());
 
 console.log(newPlayer.charAt(8));
+console.log(newPlayer.charCodeAt(8));
 console.log(newPlayer.indexOf('o'));
 console.log(newPlayer.indexOf('l'));
 
