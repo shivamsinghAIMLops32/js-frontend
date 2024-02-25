@@ -6,12 +6,12 @@
 >>  *Strings* is used for storing **sequence of charaters**.
 
 ##### strings are mutable or immutable
-> [x] immutable
-> [] mutable
+> - [x] immutable
+> - [] mutable
 
 ##### strings objects are mutable or immutable
-> [] immutable
-> [x] mutable
+> - [] immutable
+> - [x] mutable
 -----------------------------------------------------------------------------
 
 > *** string declaration ***
