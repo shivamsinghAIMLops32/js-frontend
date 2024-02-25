@@ -17,10 +17,18 @@
 > ### *** string declaration *** ###
 ```js
 const player = "shivam";
+const newPlayer = new String("shivaOP");
 // to get the length of string
-console.log(player.length);
-
-// to destructure string
-
-
+console.log(player.length());
 ```
+
+### **character access**
+>> ```js
+console.log(newPlayer.charAt(3));
+ ```
+
+### **for uppercasing or lowercasing**
+>> ```js
+console.log(newPlayer.toUpperCase());
+console.log(newPlayer.toLowerCase());
+ ```
