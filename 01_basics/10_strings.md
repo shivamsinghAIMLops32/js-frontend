@@ -23,12 +23,12 @@ console.log(player.length());
 ```
 
 ### **character access**
->> ```js
+ ```js
 console.log(newPlayer.charAt(3));
  ```
 
 ### **for uppercasing or lowercasing**
->> ```js
+ ```js
 console.log(newPlayer.toUpperCase());
 console.log(newPlayer.toLowerCase());
  ```
